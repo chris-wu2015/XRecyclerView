@@ -7,3 +7,6 @@
 /captures
 *.iml
 .idea
+/.idea
+gradlew
+gradlew.bat
